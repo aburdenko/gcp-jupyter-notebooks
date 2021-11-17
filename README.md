@@ -1,2 +1,2 @@
 # gcp-jupyter-notebooks
-A repo of Jupyter Notebooks demonstrating GCP capabilities 
+A repo of Jupyter Notebooks demonstrating cutting edge GCP capabilities 
